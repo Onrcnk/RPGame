@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JRPG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/out/artifacts/JRPG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
